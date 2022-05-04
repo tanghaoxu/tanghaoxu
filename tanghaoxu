@@ -1,4 +1,4 @@
-https://github.com/tanghaoxu/tanghaoxu.conf
+# https://github.com/tanghaoxu/tanghaoxu.conf
 [General]
 # 日志等级 warning, notify, info, verbose (默认: notify)
 loglevel = notify
