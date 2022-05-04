@@ -172,45 +172,46 @@ hide-crash-reporter-request = 0
 🇸🇬 出口 三二 = http, 183.240.9.31, 29979, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
 🇸🇬 出口 三三 = http, 183.240.9.29, 29987, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
 🇸🇬 出口 三四 = http, 183.240.9.30, 29982, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
-🇸🇬 广移 = http, 3.240.9.28, 29979, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
-🇭🇰 广移 = http, 83.240.9.28, 29980, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
-🇸🇬 广移 = http, 3.240.9.28, 29982, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇸🇬 广移 = http, 183.240.9.28, 29979, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇭🇰 广移 = http, 183.240.9.28, 29980, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇸🇬 广移 = http, 183.240.9.28, 29982, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
 🇸🇬 广移 = http, 183.240.9.28, 29983, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
-🇸🇬 广移 = http, 83.240.9.28, 29984, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
-🇸🇬 广移 = http, 83.240.9.28, 29987, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
-🇸🇬 广移 = http, 83.240.9.28, 29988, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
-🇸🇬 广移 = http, 3.240.9.29, 29979, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
-🇭🇰 广移 = http, 83.240.9.29，29980, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
-🇸🇬 广移 = http, 83.240.9.29, 29982, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
-🇸🇬 广移 = http, 83.240.9.29, 29983, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇸🇬 广移 = http, 183.240.9.28, 29984, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇸🇬 广移 = http, 183.240.9.28, 29987, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇸🇬 广移 = http, 183.240.9.28, 29988, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇸🇬 广移 = http, 183.240.9.29, 29979, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇭🇰 广移 = http, 183.240.9.29，29980, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇸🇬 广移 = http, 183.240.9.29, 29982, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇸🇬 广移 = http, 183.240.9.29, 29983, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
 🇸🇬 广移 = http, 183.240.9.29, 29984, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
-🇸🇬 广移, server: 183.240.9.29, port: 29987, type:  username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-🇸🇬 广移, server: 183.240.9.29, port: 29988, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-🇸🇬 广移, server: 183.240.9.30, port: 29979, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-🇭🇰 广移, server: 183.240.9.30, port: 29980, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-🇸🇬 广移, server: 183.240.9.30, port: 29982, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-🇸🇬 广移, server: 183.240.9.30, port: 29983, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-🇸🇬 广移, server: 183.240.9.30, port: 29984, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-🇸🇬 广移, server: 183.240.9.30, port: 29987, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-🇸🇬 广移, server: 183.240.9.30, port: 29988, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-🇸🇬 广移, server: 183.240.9.31, port: 29979, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-🇭🇰 广移, server: 183.240.9.31, port: 29980, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-🇸🇬 广移, server: 183.240.9.31, port: 29982, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-🇸🇬 广移, server: 183.240.9.31, port: 29983, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-🇸🇬 广移, server: 183.240.9.31, port: 29984, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-🇸🇬 广移, server: 183.240.9.31, port: 29987, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-🇸🇬 广移, server: 183.240.9.31, port: 29988, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-🇸🇬 深移, server: 120.232.251.206, port: 29979, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-🇭🇰 深移, server: 120.232.251.206, port: 29980, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-深移 1, server: 120.232.251.206, port: 29982, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-深移 2, server: 120.232.251.206, port: 29983, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-深移 3, server: 120.232.251.206, port: 29984, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-深移 4, server: 120.232.251.206, port: 29985, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-深移 5, server: 120.232.251.206, port: 29987, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-深移 6, server: 120.232.251.206, port: 29988, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-深移 7, server: 120.232.251.206, port: 29994, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-深移 8, server: 120.232.251.206, port: 29996, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
-深移 9, server: 120.232.251.206, port: 29998, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+🇸🇬 广移 = http, 183.240.9.29, 29987, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇸🇬 广移 = http, 183.240.9.29, 29988, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇸🇬 广移 = http, 183.240.9.30, 29979, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇭🇰 广移 = http, 183.240.9.30, 29980, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇸🇬 广移 = http, 183.240.9.30, 29982, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇸🇬 广移 = http, 183.240.9.30, 29983, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇸🇬 广移 = http, 183.240.9.30, 29984, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇸🇬 广移 = http, 183.240.9.30, 29987, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇸🇬 广移 = http, 183.240.9.30, 29988, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇸🇬 广移 = http, 183.240.9.31, 29979, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇭🇰 广移 = http, 183.240.9.31, 29980, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇸🇬 广移 = http, 183.240.9.31, 29982, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇸🇬 广移 = http, 183.240.9.31, 29983, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇸🇬 广移 = http, 183.240.9.31, 29984, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇸🇬 广移 = http, 183.240.9.31, 29987, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇸🇬 广移 = http, 183.240.9.31, 29988, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇸🇬 深移 = http, 120.232.251.206, 29979, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+🇭🇰 深移 = http, 120.232.251.206, 29980, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+深移 1 = http, 120.232.251.206, 29982, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+深移 2 = http, 120.232.251.206, 29983, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+深移 3 = http, 120.232.251.206, 29984, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+深移 4 = http, 120.232.251.206, 29985, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+深移 5 = http, 120.232.251.206, 29987, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+深移 6 = http, 120.232.251.206, 29988, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+深移 7 = http, 120.232.251.206, 29994, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+深移 8 = http, 120.232.251.206, 29996, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+深移 9 = http, 120.232.251.206, 29998, username=442993652168396800, password=2ef91648-089f-4c81-b34d-06f072ec51dd, skip-cert-verify=true, tfo=true
+
 国内直连 = direct
 
 [Proxy Group]
